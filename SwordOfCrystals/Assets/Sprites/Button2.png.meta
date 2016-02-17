@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 762f375931eda4939bfdc470998db6e1
+timeCreated: 1451901494
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Button2_0
+    21300002: Button2_1
+    21300004: Button2_2
+    21300006: Button2_3
+    21300008: Button2_4
+    21300010: Button2_5
+    21300012: Button2_6
+    21300014: Button2_7
+    21300016: Button2_8
+    21300018: Button2_9
+    21300020: Button2_10
+    21300022: Button2_11
+    21300024: Button2_12
+    21300026: Button2_13
+    21300028: Button2_14
+    21300030: Button2_15
+    21300032: Button2_16
+    21300034: Button2_17
+    21300036: Button2_18
+    21300038: Button2_19
+    21300040: Button2_20
+    21300042: Button2_21
+    21300044: Button2_22
+    21300046: Button2_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Button2_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 229
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 229
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 229
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 229
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 191
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 191
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 191
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 191
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 154
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 153
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 97
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 97
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 97
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 97
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 59
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 59
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 59
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 59
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 22
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button2_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 21
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
